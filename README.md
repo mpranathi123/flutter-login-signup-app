@@ -1,6 +1,17 @@
-# task
-
 A new Flutter project.
+# Flutter Login + Sign Up App
+
+## Features
+- Login with email + password
+- Sign up option with Firestore
+- Password visibility toggle
+- Status messages for success/failure
+
+## How to Run
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/mpranathi123/flutter-login-signup-app.git
+
 
 ## Getting Started
 
